@@ -1,0 +1,17 @@
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+.idea/
+.vscode/
+
+.DS_Store
+
+.env
+.env.*
+!.env.example
+
+lib/supabase_config.local.dart
